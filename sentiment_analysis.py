@@ -1,25 +1,54 @@
 import pandas as pd
+from textblob import TextBlob
 import matplotlib.pyplot as plt
 
-# Load data
+# Load dataset
 df = pd.read_csv("customer_reviews.csv")
 
-# Count sentiments
-sentiment_counts = df["Sentiment"].value_counts()
+# Lists to store results
+polarity_scores = []
+sentiment_labels = []
 
-print(sentiment_counts)
+# Analyze sentiment using TextBlob
+for review in df["Review"]:
+    analysis = TextBlob(review)
+    polarity = analysis.sentiment.polarity
+    polarity_scores.append(polarity)
 
-# Plot
+    if polarity >= 0:
+        sentiment_labels.append("Positive")
+    else:
+        sentiment_labels.append("Negative")
+
+# Add results to dataframe
+df["Polarity"] = polarity_scores
+df["Predicted_Sentiment"] = sentiment_labels
+
+# Summary
+positive_count = sentiment_labels.count("Positive")
+negative_count = sentiment_labels.count("Negative")
+total = len(sentiment_labels)
+
+print("\n📊 Suzuki Alto Sentiment Analysis Report")
+print("----------------------------------------")
+print(f"Total Reviews: {total}")
+print(f"Positive Reviews: {positive_count} ({(positive_count/total)*100:.2f}%)")
+print(f"Negative Reviews: {negative_count} ({(negative_count/total)*100:.2f}%)")
+
+# Visualization
 plt.figure()
-sentiment_counts.plot(kind='bar')
+df["Predicted_Sentiment"].value_counts().plot(kind="bar")
 
-plt.title("Customer Sentiment Distribution")
+plt.title("Suzuki Alto Sentiment Analysis")
 plt.xlabel("Sentiment")
 plt.ylabel("Number of Reviews")
 
-# Save image
 plt.savefig("sentiment_dashboard.png")
-
 plt.show()
 
-print("✅ sentiment_dashboard.png created!")
+# Save updated dataset
+df.to_csv("analyzed_reviews.csv", index=False)
+
+print("\n✅ Files generated:")
+print("- analyzed_reviews.csv")
+print("- sentiment_dashboard.png")

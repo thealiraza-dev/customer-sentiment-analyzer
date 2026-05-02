@@ -1,0 +1,501 @@
+Review,Sentiment,Polarity,Subjectivity
+Poor quality,Negative,-0.4,0.6
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Excellent experience,Positive,1.0,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Very slow response,Negative,-0.39000000000000007,0.52
+Not satisfied,Negative,-0.25,1.0
+Not satisfied,Negative,-0.25,1.0
+Not satisfied,Negative,-0.25,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Poor quality,Negative,-0.4,0.6
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Excellent experience,Positive,1.0,1.0
+Poor quality,Negative,-0.4,0.6
+Great service,Positive,0.8,0.75
+Not satisfied,Negative,-0.25,1.0
+Poor quality,Negative,-0.4,0.6
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Very slow response,Negative,-0.39000000000000007,0.52
+Very satisfied,Positive,0.65,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Not satisfied,Negative,-0.25,1.0
+Not satisfied,Negative,-0.25,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Good quality product,Positive,0.7,0.6000000000000001
+Excellent experience,Positive,1.0,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Good quality product,Positive,0.7,0.6000000000000001
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Poor quality,Negative,-0.4,0.6
+Not satisfied,Negative,-0.25,1.0
+Poor quality,Negative,-0.4,0.6
+Not satisfied,Negative,-0.25,1.0
+Excellent experience,Positive,1.0,1.0
+Not satisfied,Negative,-0.25,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Poor quality,Negative,-0.4,0.6
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Excellent experience,Positive,1.0,1.0
+Poor quality,Negative,-0.4,0.6
+Very satisfied,Positive,0.65,1.0
+Not satisfied,Negative,-0.25,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Poor quality,Negative,-0.4,0.6
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Not satisfied,Negative,-0.25,1.0
+Poor quality,Negative,-0.4,0.6
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Not satisfied,Negative,-0.25,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Poor quality,Negative,-0.4,0.6
+Poor quality,Negative,-0.4,0.6
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Poor quality,Negative,-0.4,0.6
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Very slow response,Negative,-0.39000000000000007,0.52
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Excellent experience,Positive,1.0,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Not satisfied,Negative,-0.25,1.0
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Excellent experience,Positive,1.0,1.0
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Poor quality,Negative,-0.4,0.6
+Good quality product,Positive,0.7,0.6000000000000001
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Poor quality,Negative,-0.4,0.6
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Poor quality,Negative,-0.4,0.6
+Good quality product,Positive,0.7,0.6000000000000001
+Good quality product,Positive,0.7,0.6000000000000001
+Not satisfied,Negative,-0.25,1.0
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Poor quality,Negative,-0.4,0.6
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Poor quality,Negative,-0.4,0.6
+Poor quality,Negative,-0.4,0.6
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Not satisfied,Negative,-0.25,1.0
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Poor quality,Negative,-0.4,0.6
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Not satisfied,Negative,-0.25,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Good quality product,Positive,0.7,0.6000000000000001
+Poor quality,Negative,-0.4,0.6
+Very satisfied,Positive,0.65,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Poor quality,Negative,-0.4,0.6
+Great service,Positive,0.8,0.75
+Poor quality,Negative,-0.4,0.6
+Very satisfied,Positive,0.65,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Very slow response,Negative,-0.39000000000000007,0.52
+Very satisfied,Positive,0.65,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Great service,Positive,0.8,0.75
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Not satisfied,Negative,-0.25,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Not satisfied,Negative,-0.25,1.0
+Great service,Positive,0.8,0.75
+Poor quality,Negative,-0.4,0.6
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Not satisfied,Negative,-0.25,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Very slow response,Negative,-0.39000000000000007,0.52
+Good quality product,Positive,0.7,0.6000000000000001
+Excellent experience,Positive,1.0,1.0
+Poor quality,Negative,-0.4,0.6
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Excellent experience,Positive,1.0,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Poor quality,Negative,-0.4,0.6
+Not satisfied,Negative,-0.25,1.0
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Excellent experience,Positive,1.0,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Poor quality,Negative,-0.4,0.6
+Good quality product,Positive,0.7,0.6000000000000001
+Not satisfied,Negative,-0.25,1.0
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Excellent experience,Positive,1.0,1.0
+Not satisfied,Negative,-0.25,1.0
+Excellent experience,Positive,1.0,1.0
+Excellent experience,Positive,1.0,1.0
+Poor quality,Negative,-0.4,0.6
+Very slow response,Negative,-0.39000000000000007,0.52
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Very slow response,Negative,-0.39000000000000007,0.52
+Great service,Positive,0.8,0.75
+Not satisfied,Negative,-0.25,1.0
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Poor quality,Negative,-0.4,0.6
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Excellent experience,Positive,1.0,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Good quality product,Positive,0.7,0.6000000000000001
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Poor quality,Negative,-0.4,0.6
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Poor quality,Negative,-0.4,0.6
+Not satisfied,Negative,-0.25,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Very satisfied,Positive,0.65,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Very slow response,Negative,-0.39000000000000007,0.52
+Poor quality,Negative,-0.4,0.6
+Excellent experience,Positive,1.0,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Poor quality,Negative,-0.4,0.6
+Excellent experience,Positive,1.0,1.0
+Not satisfied,Negative,-0.25,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Not satisfied,Negative,-0.25,1.0
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Not satisfied,Negative,-0.25,1.0
+Not satisfied,Negative,-0.25,1.0
+Very satisfied,Positive,0.65,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Very slow response,Negative,-0.39000000000000007,0.52
+Very satisfied,Positive,0.65,1.0
+Not satisfied,Negative,-0.25,1.0
+Poor quality,Negative,-0.4,0.6
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Poor quality,Negative,-0.4,0.6
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Poor quality,Negative,-0.4,0.6
+Very slow response,Negative,-0.39000000000000007,0.52
+Great service,Positive,0.8,0.75
+Very slow response,Negative,-0.39000000000000007,0.52
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Good quality product,Positive,0.7,0.6000000000000001
+Excellent experience,Positive,1.0,1.0
+Excellent experience,Positive,1.0,1.0
+Not satisfied,Negative,-0.25,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Good quality product,Positive,0.7,0.6000000000000001
+Poor quality,Negative,-0.4,0.6
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Poor quality,Negative,-0.4,0.6
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Not satisfied,Negative,-0.25,1.0
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Good quality product,Positive,0.7,0.6000000000000001
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Poor quality,Negative,-0.4,0.6
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Not satisfied,Negative,-0.25,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Good quality product,Positive,0.7,0.6000000000000001
+Good quality product,Positive,0.7,0.6000000000000001
+Good quality product,Positive,0.7,0.6000000000000001
+Very slow response,Negative,-0.39000000000000007,0.52
+Good quality product,Positive,0.7,0.6000000000000001
+Good quality product,Positive,0.7,0.6000000000000001
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Excellent experience,Positive,1.0,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Not satisfied,Negative,-0.25,1.0
+Very satisfied,Positive,0.65,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Great service,Positive,0.8,0.75
+Not satisfied,Negative,-0.25,1.0
+Excellent experience,Positive,1.0,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Excellent experience,Positive,1.0,1.0
+Excellent experience,Positive,1.0,1.0
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Very satisfied,Positive,0.65,1.0
+Not satisfied,Negative,-0.25,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Not satisfied,Negative,-0.25,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Poor quality,Negative,-0.4,0.6
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Excellent experience,Positive,1.0,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Great service,Positive,0.8,0.75
+Very slow response,Negative,-0.39000000000000007,0.52
+Excellent experience,Positive,1.0,1.0
+Poor quality,Negative,-0.4,0.6
+Very slow response,Negative,-0.39000000000000007,0.52
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Poor quality,Negative,-0.4,0.6
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Great service,Positive,0.8,0.75
+Good quality product,Positive,0.7,0.6000000000000001
+Good quality product,Positive,0.7,0.6000000000000001
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Poor quality,Negative,-0.4,0.6
+Excellent experience,Positive,1.0,1.0
+Poor quality,Negative,-0.4,0.6
+Good quality product,Positive,0.7,0.6000000000000001
+Great service,Positive,0.8,0.75
+Not satisfied,Negative,-0.25,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Very satisfied,Positive,0.65,1.0
+Bad service,Negative,-0.6999999999999998,0.6666666666666666
+Very slow response,Negative,-0.39000000000000007,0.52
+Great service,Positive,0.8,0.75
+Very slow response,Negative,-0.39000000000000007,0.52
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Not satisfied,Negative,-0.25,1.0
+Good quality product,Positive,0.7,0.6000000000000001
+Good quality product,Positive,0.7,0.6000000000000001
+Not satisfied,Negative,-0.25,1.0
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
+Great service,Positive,0.8,0.75
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Great service,Positive,0.8,0.75
+Poor quality,Negative,-0.4,0.6
+Very slow response,Negative,-0.39000000000000007,0.52
+Very satisfied,Positive,0.65,1.0
+Very satisfied,Positive,0.65,1.0
+Very slow response,Negative,-0.39000000000000007,0.52
+Great service,Positive,0.8,0.75
+Excellent experience,Positive,1.0,1.0
