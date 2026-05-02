@@ -1,32 +1,76 @@
-# 📁 2. customer-sentiment-analyzer — README.md
+# 🚗 Suzuki Alto Customer Sentiment Engine
 
+## 📌 Overview
+This project is a **real-world simulation of automotive customer feedback analysis**.  
+It uses Natural Language Processing (NLP) to analyze customer reviews and convert them into **actionable business insights**.
 
-# 💬 Customer Sentiment Analyzer
-
-## 📌 Project Overview
-This project focuses on analyzing customer feedback data to determine sentiment patterns and extract actionable business insights. It simulates how organizations can leverage customer reviews to improve products and services.
+The system helps automotive companies understand:
+- Customer satisfaction levels
+- Regional sentiment differences
+- Product improvement areas
+- Business risk zones
 
 ---
 
-## 🛠 Tech Stack
+## 🎯 Business Problem
+Automotive companies receive large volumes of unstructured customer feedback but lack tools to:
+- Analyze sentiment at scale
+- Identify regional issues
+- Track product satisfaction trends
+- Make data-driven decisions
+
+---
+
+## 💡 Solution
+Built an **interactive AI-powered sentiment analytics dashboard** that:
+- Classifies customer reviews into Positive, Negative, Neutral
+- Visualizes sentiment trends across cities
+- Highlights business risk areas
+- Enables interactive exploration of customer feedback
+
+---
+
+## ⚙️ Tech Stack
 - Python
 - Pandas
+- TextBlob (NLP)
 - Matplotlib
+- Streamlit
+- Git & GitHub
 
 ---
 
-## 📊 Key Insights
-- Majority of customer feedback was positive (~70%), indicating strong overall satisfaction.
-- Negative sentiment was primarily associated with service delays and support issues.
-- Product quality received consistently high ratings across all segments.
-- Trend analysis showed an improvement in sentiment after service process changes.
+## 📊 Key Features
 
+### 📌 Sentiment Analysis
+- TextBlob-based sentiment classification
+- Polarity scoring
+- Positive / Negative / Neutral grouping
 
+### 📌 Business Intelligence Dashboard
+- KPI metrics (Total, Positive %, Negative %, Neutral)
+- City-wise sentiment breakdown
+- Product health analysis
 
-## ⚙️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/customer-sentiment-analyzer.git
+### 📌 Interactive Features
+- Filters (City & Sentiment)
+- Search functionality for reviews
+- Data download option (CSV export)
+- Raw data explorer
 
-# customer-sentiment-analyzer
+---
 
+## 📈 Key Business Insights
+- Identifies **high-risk cities with negative sentiment**
+- Highlights **strong-performing regions**
+- Shows overall product satisfaction trends
+- Helps in **data-driven product improvement decisions**
+
+---
+
+## 🖥️ Live Demo
+👉 [Streamlit App Link Here]
+
+---
+
+## 📂 Project Structure

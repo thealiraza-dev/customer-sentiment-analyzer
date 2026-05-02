@@ -1,501 +1,1001 @@
-Review,Sentiment,Polarity,Subjectivity
-Poor quality,Negative,-0.4,0.6
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Excellent experience,Positive,1.0,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Very slow response,Negative,-0.39000000000000007,0.52
-Not satisfied,Negative,-0.25,1.0
-Not satisfied,Negative,-0.25,1.0
-Not satisfied,Negative,-0.25,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Poor quality,Negative,-0.4,0.6
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Excellent experience,Positive,1.0,1.0
-Poor quality,Negative,-0.4,0.6
-Great service,Positive,0.8,0.75
-Not satisfied,Negative,-0.25,1.0
-Poor quality,Negative,-0.4,0.6
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Very slow response,Negative,-0.39000000000000007,0.52
-Very satisfied,Positive,0.65,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Not satisfied,Negative,-0.25,1.0
-Not satisfied,Negative,-0.25,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Good quality product,Positive,0.7,0.6000000000000001
-Excellent experience,Positive,1.0,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Good quality product,Positive,0.7,0.6000000000000001
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Poor quality,Negative,-0.4,0.6
-Not satisfied,Negative,-0.25,1.0
-Poor quality,Negative,-0.4,0.6
-Not satisfied,Negative,-0.25,1.0
-Excellent experience,Positive,1.0,1.0
-Not satisfied,Negative,-0.25,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Poor quality,Negative,-0.4,0.6
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Excellent experience,Positive,1.0,1.0
-Poor quality,Negative,-0.4,0.6
-Very satisfied,Positive,0.65,1.0
-Not satisfied,Negative,-0.25,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Poor quality,Negative,-0.4,0.6
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Not satisfied,Negative,-0.25,1.0
-Poor quality,Negative,-0.4,0.6
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Not satisfied,Negative,-0.25,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Poor quality,Negative,-0.4,0.6
-Poor quality,Negative,-0.4,0.6
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Poor quality,Negative,-0.4,0.6
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Very slow response,Negative,-0.39000000000000007,0.52
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Excellent experience,Positive,1.0,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Not satisfied,Negative,-0.25,1.0
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Excellent experience,Positive,1.0,1.0
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Poor quality,Negative,-0.4,0.6
-Good quality product,Positive,0.7,0.6000000000000001
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Poor quality,Negative,-0.4,0.6
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Poor quality,Negative,-0.4,0.6
-Good quality product,Positive,0.7,0.6000000000000001
-Good quality product,Positive,0.7,0.6000000000000001
-Not satisfied,Negative,-0.25,1.0
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Poor quality,Negative,-0.4,0.6
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Poor quality,Negative,-0.4,0.6
-Poor quality,Negative,-0.4,0.6
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Not satisfied,Negative,-0.25,1.0
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Poor quality,Negative,-0.4,0.6
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Not satisfied,Negative,-0.25,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Good quality product,Positive,0.7,0.6000000000000001
-Poor quality,Negative,-0.4,0.6
-Very satisfied,Positive,0.65,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Poor quality,Negative,-0.4,0.6
-Great service,Positive,0.8,0.75
-Poor quality,Negative,-0.4,0.6
-Very satisfied,Positive,0.65,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Very slow response,Negative,-0.39000000000000007,0.52
-Very satisfied,Positive,0.65,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Great service,Positive,0.8,0.75
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Not satisfied,Negative,-0.25,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Not satisfied,Negative,-0.25,1.0
-Great service,Positive,0.8,0.75
-Poor quality,Negative,-0.4,0.6
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Not satisfied,Negative,-0.25,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Very slow response,Negative,-0.39000000000000007,0.52
-Good quality product,Positive,0.7,0.6000000000000001
-Excellent experience,Positive,1.0,1.0
-Poor quality,Negative,-0.4,0.6
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Excellent experience,Positive,1.0,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Poor quality,Negative,-0.4,0.6
-Not satisfied,Negative,-0.25,1.0
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Excellent experience,Positive,1.0,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Poor quality,Negative,-0.4,0.6
-Good quality product,Positive,0.7,0.6000000000000001
-Not satisfied,Negative,-0.25,1.0
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Excellent experience,Positive,1.0,1.0
-Not satisfied,Negative,-0.25,1.0
-Excellent experience,Positive,1.0,1.0
-Excellent experience,Positive,1.0,1.0
-Poor quality,Negative,-0.4,0.6
-Very slow response,Negative,-0.39000000000000007,0.52
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Very slow response,Negative,-0.39000000000000007,0.52
-Great service,Positive,0.8,0.75
-Not satisfied,Negative,-0.25,1.0
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Poor quality,Negative,-0.4,0.6
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Excellent experience,Positive,1.0,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Good quality product,Positive,0.7,0.6000000000000001
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Poor quality,Negative,-0.4,0.6
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Poor quality,Negative,-0.4,0.6
-Not satisfied,Negative,-0.25,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Very satisfied,Positive,0.65,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Very slow response,Negative,-0.39000000000000007,0.52
-Poor quality,Negative,-0.4,0.6
-Excellent experience,Positive,1.0,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Poor quality,Negative,-0.4,0.6
-Excellent experience,Positive,1.0,1.0
-Not satisfied,Negative,-0.25,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Not satisfied,Negative,-0.25,1.0
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Not satisfied,Negative,-0.25,1.0
-Not satisfied,Negative,-0.25,1.0
-Very satisfied,Positive,0.65,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Very slow response,Negative,-0.39000000000000007,0.52
-Very satisfied,Positive,0.65,1.0
-Not satisfied,Negative,-0.25,1.0
-Poor quality,Negative,-0.4,0.6
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Poor quality,Negative,-0.4,0.6
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Poor quality,Negative,-0.4,0.6
-Very slow response,Negative,-0.39000000000000007,0.52
-Great service,Positive,0.8,0.75
-Very slow response,Negative,-0.39000000000000007,0.52
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Good quality product,Positive,0.7,0.6000000000000001
-Excellent experience,Positive,1.0,1.0
-Excellent experience,Positive,1.0,1.0
-Not satisfied,Negative,-0.25,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Good quality product,Positive,0.7,0.6000000000000001
-Poor quality,Negative,-0.4,0.6
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Poor quality,Negative,-0.4,0.6
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Not satisfied,Negative,-0.25,1.0
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Good quality product,Positive,0.7,0.6000000000000001
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Poor quality,Negative,-0.4,0.6
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Not satisfied,Negative,-0.25,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Good quality product,Positive,0.7,0.6000000000000001
-Good quality product,Positive,0.7,0.6000000000000001
-Good quality product,Positive,0.7,0.6000000000000001
-Very slow response,Negative,-0.39000000000000007,0.52
-Good quality product,Positive,0.7,0.6000000000000001
-Good quality product,Positive,0.7,0.6000000000000001
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Excellent experience,Positive,1.0,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Not satisfied,Negative,-0.25,1.0
-Very satisfied,Positive,0.65,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Great service,Positive,0.8,0.75
-Not satisfied,Negative,-0.25,1.0
-Excellent experience,Positive,1.0,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Excellent experience,Positive,1.0,1.0
-Excellent experience,Positive,1.0,1.0
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Very satisfied,Positive,0.65,1.0
-Not satisfied,Negative,-0.25,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Not satisfied,Negative,-0.25,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Poor quality,Negative,-0.4,0.6
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Excellent experience,Positive,1.0,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Great service,Positive,0.8,0.75
-Very slow response,Negative,-0.39000000000000007,0.52
-Excellent experience,Positive,1.0,1.0
-Poor quality,Negative,-0.4,0.6
-Very slow response,Negative,-0.39000000000000007,0.52
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Poor quality,Negative,-0.4,0.6
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Great service,Positive,0.8,0.75
-Good quality product,Positive,0.7,0.6000000000000001
-Good quality product,Positive,0.7,0.6000000000000001
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Poor quality,Negative,-0.4,0.6
-Excellent experience,Positive,1.0,1.0
-Poor quality,Negative,-0.4,0.6
-Good quality product,Positive,0.7,0.6000000000000001
-Great service,Positive,0.8,0.75
-Not satisfied,Negative,-0.25,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Very satisfied,Positive,0.65,1.0
-Bad service,Negative,-0.6999999999999998,0.6666666666666666
-Very slow response,Negative,-0.39000000000000007,0.52
-Great service,Positive,0.8,0.75
-Very slow response,Negative,-0.39000000000000007,0.52
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Not satisfied,Negative,-0.25,1.0
-Good quality product,Positive,0.7,0.6000000000000001
-Good quality product,Positive,0.7,0.6000000000000001
-Not satisfied,Negative,-0.25,1.0
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
-Great service,Positive,0.8,0.75
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Great service,Positive,0.8,0.75
-Poor quality,Negative,-0.4,0.6
-Very slow response,Negative,-0.39000000000000007,0.52
-Very satisfied,Positive,0.65,1.0
-Very satisfied,Positive,0.65,1.0
-Very slow response,Negative,-0.39000000000000007,0.52
-Great service,Positive,0.8,0.75
-Excellent experience,Positive,1.0,1.0
+Review,Sentiment,City
+Comfortable for small families,Positive,Multan
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Cheap interior materials,Negative,Karachi
+Comfortable for small families,Positive,Islamabad
+Perfect for daily commute,Positive,Islamabad
+Smooth driving experience in city,Positive,Lahore
+Low fuel consumption,Positive,Multan
+Low safety features,Negative,Karachi
+Excellent fuel efficiency for daily use,Positive,Karachi
+Poor build quality and weak body,Negative,Faisalabad
+Low fuel consumption,Positive,Karachi
+Very affordable maintenance cost,Positive,Faisalabad
+Engine performance is underpowered,Negative,Karachi
+Very affordable maintenance cost,Positive,Karachi
+Good resale value in market,Positive,Lahore
+Great value for money,Positive,Karachi
+Perfect for daily commute,Positive,Islamabad
+Not durable for long term use,Negative,Lahore
+Reliable and economical car,Positive,Islamabad
+AC is not effective in hot weather,Negative,Multan
+Good resale value in market,Positive,Islamabad
+Very affordable maintenance cost,Positive,Faisalabad
+Low fuel consumption,Positive,Karachi
+Smooth driving experience in city,Positive,Faisalabad
+Good resale value in market,Positive,Multan
+Very affordable maintenance cost,Positive,Islamabad
+Perfect for daily commute,Positive,Multan
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Very affordable maintenance cost,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Karachi
+Great value for money,Positive,Multan
+AC is not effective in hot weather,Negative,Multan
+Excellent fuel efficiency for daily use,Positive,Lahore
+Comfortable for small families,Positive,Karachi
+Comfortable for small families,Positive,Multan
+Reliable and economical car,Positive,Lahore
+Comfortable for small families,Positive,Karachi
+Suspension feels uncomfortable,Negative,Multan
+Very affordable maintenance cost,Positive,Lahore
+Cheap interior materials,Negative,Karachi
+Comfortable for small families,Positive,Multan
+Brake performance is weak,Negative,Multan
+Engine performance is underpowered,Negative,Lahore
+Not suitable for long routes,Negative,Multan
+Perfect for daily commute,Positive,Karachi
+Very affordable maintenance cost,Positive,Islamabad
+Great value for money,Positive,Faisalabad
+Good resale value in market,Positive,Multan
+Low fuel consumption,Positive,Lahore
+Low fuel consumption,Positive,Lahore
+Reliable and economical car,Positive,Lahore
+Easy to park in crowded areas,Positive,Karachi
+Very affordable maintenance cost,Positive,Karachi
+Great value for money,Positive,Faisalabad
+Good resale value in market,Positive,Faisalabad
+Perfect for daily commute,Positive,Karachi
+Good resale value in market,Positive,Multan
+Great value for money,Positive,Islamabad
+Low safety features,Negative,Islamabad
+Perfect for daily commute,Positive,Karachi
+Comfortable for small families,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Reliable and economical car,Positive,Lahore
+Low safety features,Negative,Lahore
+Perfect for daily commute,Positive,Multan
+Cheap interior materials,Negative,Faisalabad
+Good resale value in market,Positive,Faisalabad
+Good resale value in market,Positive,Islamabad
+Perfect for daily commute,Positive,Karachi
+Great value for money,Positive,Faisalabad
+Smooth driving experience in city,Positive,Multan
+Good resale value in market,Positive,Karachi
+Comfortable for small families,Positive,Multan
+Perfect for daily commute,Positive,Islamabad
+Easy to park in crowded areas,Positive,Islamabad
+Suspension feels uncomfortable,Negative,Karachi
+Perfect for daily commute,Positive,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Lahore
+Low fuel consumption,Positive,Faisalabad
+Perfect for daily commute,Positive,Faisalabad
+Reliable and economical car,Positive,Islamabad
+Excellent fuel efficiency for daily use,Positive,Multan
+Noisy engine at high speed,Negative,Faisalabad
+Good resale value in market,Positive,Islamabad
+Easy to park in crowded areas,Positive,Islamabad
+Good resale value in market,Positive,Lahore
+Good resale value in market,Positive,Lahore
+Smooth driving experience in city,Positive,Faisalabad
+Smooth driving experience in city,Positive,Faisalabad
+Noisy engine at high speed,Negative,Karachi
+Low fuel consumption,Positive,Multan
+Good resale value in market,Positive,Multan
+Suspension feels uncomfortable,Negative,Karachi
+Easy to park in crowded areas,Positive,Islamabad
+Engine performance is underpowered,Negative,Karachi
+Low fuel consumption,Positive,Lahore
+Perfect for daily commute,Positive,Lahore
+Smooth driving experience in city,Positive,Karachi
+Very affordable maintenance cost,Positive,Multan
+Great value for money,Positive,Multan
+Comfortable for small families,Positive,Faisalabad
+Low safety features,Negative,Multan
+Not durable for long term use,Negative,Multan
+Easy to park in crowded areas,Positive,Karachi
+Easy to park in crowded areas,Positive,Lahore
+Brake performance is weak,Negative,Karachi
+Great value for money,Positive,Karachi
+Cheap interior materials,Negative,Faisalabad
+Low fuel consumption,Positive,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Multan
+Not suitable for long routes,Negative,Faisalabad
+Comfortable for small families,Positive,Lahore
+Low safety features,Negative,Karachi
+Comfortable for small families,Positive,Faisalabad
+Smooth driving experience in city,Positive,Islamabad
+Excellent fuel efficiency for daily use,Positive,Lahore
+Excellent fuel efficiency for daily use,Positive,Multan
+Good resale value in market,Positive,Karachi
+Not suitable for long routes,Negative,Islamabad
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Perfect for daily commute,Positive,Karachi
+Great value for money,Positive,Islamabad
+Low fuel consumption,Positive,Multan
+Perfect for daily commute,Positive,Faisalabad
+Low fuel consumption,Positive,Lahore
+Low fuel consumption,Positive,Islamabad
+Suspension feels uncomfortable,Negative,Faisalabad
+Suspension feels uncomfortable,Negative,Lahore
+Comfortable for small families,Positive,Karachi
+Suspension feels uncomfortable,Negative,Lahore
+Great value for money,Positive,Karachi
+Low fuel consumption,Positive,Multan
+Very affordable maintenance cost,Positive,Karachi
+Cheap interior materials,Negative,Islamabad
+Smooth driving experience in city,Positive,Multan
+Great value for money,Positive,Lahore
+Low safety features,Negative,Multan
+Not suitable for long routes,Negative,Islamabad
+Low fuel consumption,Positive,Karachi
+Low fuel consumption,Positive,Karachi
+Smooth driving experience in city,Positive,Karachi
+Great value for money,Positive,Multan
+Good resale value in market,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Karachi
+Not durable for long term use,Negative,Karachi
+Excellent fuel efficiency for daily use,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Karachi
+Good resale value in market,Positive,Multan
+Reliable and economical car,Positive,Multan
+Low fuel consumption,Positive,Islamabad
+Low fuel consumption,Positive,Multan
+Smooth driving experience in city,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Faisalabad
+Good resale value in market,Positive,Faisalabad
+Low fuel consumption,Positive,Islamabad
+Not suitable for long routes,Negative,Faisalabad
+Great value for money,Positive,Multan
+Smooth driving experience in city,Positive,Multan
+Perfect for daily commute,Positive,Karachi
+Very affordable maintenance cost,Positive,Multan
+Cheap interior materials,Negative,Karachi
+Good resale value in market,Positive,Karachi
+Not suitable for long routes,Negative,Karachi
+Suspension feels uncomfortable,Negative,Karachi
+Very affordable maintenance cost,Positive,Lahore
+Great value for money,Positive,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Multan
+Very affordable maintenance cost,Positive,Faisalabad
+Not durable for long term use,Negative,Karachi
+Good resale value in market,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Lahore
+Perfect for daily commute,Positive,Multan
+Easy to park in crowded areas,Positive,Multan
+Comfortable for small families,Positive,Multan
+Perfect for daily commute,Positive,Islamabad
+Easy to park in crowded areas,Positive,Karachi
+Reliable and economical car,Positive,Multan
+Brake performance is weak,Negative,Faisalabad
+Good resale value in market,Positive,Multan
+Very affordable maintenance cost,Positive,Karachi
+Reliable and economical car,Positive,Multan
+Noisy engine at high speed,Negative,Islamabad
+Good resale value in market,Positive,Multan
+Low fuel consumption,Positive,Lahore
+Great value for money,Positive,Faisalabad
+Smooth driving experience in city,Positive,Lahore
+Good resale value in market,Positive,Lahore
+Smooth driving experience in city,Positive,Lahore
+Perfect for daily commute,Positive,Karachi
+Engine performance is underpowered,Negative,Karachi
+Good resale value in market,Positive,Islamabad
+Reliable and economical car,Positive,Islamabad
+Smooth driving experience in city,Positive,Faisalabad
+AC is not effective in hot weather,Negative,Multan
+Noisy engine at high speed,Negative,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Faisalabad
+Low fuel consumption,Positive,Islamabad
+Very affordable maintenance cost,Positive,Karachi
+Comfortable for small families,Positive,Multan
+Very affordable maintenance cost,Positive,Karachi
+Very affordable maintenance cost,Positive,Lahore
+Low fuel consumption,Positive,Islamabad
+Perfect for daily commute,Positive,Karachi
+Low safety features,Negative,Faisalabad
+Poor build quality and weak body,Negative,Faisalabad
+Very affordable maintenance cost,Positive,Faisalabad
+Easy to park in crowded areas,Positive,Karachi
+Reliable and economical car,Positive,Multan
+Low safety features,Negative,Multan
+Engine performance is underpowered,Negative,Karachi
+Comfortable for small families,Positive,Multan
+Smooth driving experience in city,Positive,Islamabad
+Not suitable for long routes,Negative,Islamabad
+Smooth driving experience in city,Positive,Karachi
+Easy to park in crowded areas,Positive,Multan
+Cheap interior materials,Negative,Lahore
+Great value for money,Positive,Karachi
+Easy to park in crowded areas,Positive,Faisalabad
+Great value for money,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Karachi
+Noisy engine at high speed,Negative,Lahore
+Perfect for daily commute,Positive,Islamabad
+Suspension feels uncomfortable,Negative,Faisalabad
+Low fuel consumption,Positive,Multan
+Low safety features,Negative,Karachi
+Suspension feels uncomfortable,Negative,Islamabad
+Excellent fuel efficiency for daily use,Positive,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Lahore
+Very affordable maintenance cost,Positive,Multan
+Excellent fuel efficiency for daily use,Positive,Karachi
+Easy to park in crowded areas,Positive,Islamabad
+Very affordable maintenance cost,Positive,Karachi
+Easy to park in crowded areas,Positive,Islamabad
+Good resale value in market,Positive,Multan
+Perfect for daily commute,Positive,Karachi
+Good resale value in market,Positive,Islamabad
+Engine performance is underpowered,Negative,Multan
+Perfect for daily commute,Positive,Islamabad
+Not suitable for long routes,Negative,Multan
+Easy to park in crowded areas,Positive,Multan
+Low safety features,Negative,Islamabad
+Good resale value in market,Positive,Karachi
+Smooth driving experience in city,Positive,Karachi
+Very affordable maintenance cost,Positive,Karachi
+Brake performance is weak,Negative,Islamabad
+Great value for money,Positive,Islamabad
+Very affordable maintenance cost,Positive,Karachi
+Very affordable maintenance cost,Positive,Karachi
+Not durable for long term use,Negative,Islamabad
+Comfortable for small families,Positive,Faisalabad
+Good resale value in market,Positive,Islamabad
+AC is not effective in hot weather,Negative,Karachi
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Engine performance is underpowered,Negative,Karachi
+Very affordable maintenance cost,Positive,Karachi
+AC is not effective in hot weather,Negative,Lahore
+Smooth driving experience in city,Positive,Lahore
+Very affordable maintenance cost,Positive,Lahore
+Great value for money,Positive,Lahore
+Low safety features,Negative,Islamabad
+Perfect for daily commute,Positive,Faisalabad
+Not durable for long term use,Negative,Karachi
+Great value for money,Positive,Multan
+Suspension feels uncomfortable,Negative,Islamabad
+Noisy engine at high speed,Negative,Multan
+Smooth driving experience in city,Positive,Karachi
+Noisy engine at high speed,Negative,Karachi
+Easy to park in crowded areas,Positive,Lahore
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Great value for money,Positive,Islamabad
+Very affordable maintenance cost,Positive,Lahore
+Reliable and economical car,Positive,Islamabad
+Reliable and economical car,Positive,Karachi
+Very affordable maintenance cost,Positive,Lahore
+Reliable and economical car,Positive,Lahore
+Good resale value in market,Positive,Faisalabad
+Perfect for daily commute,Positive,Lahore
+Very affordable maintenance cost,Positive,Karachi
+Good resale value in market,Positive,Faisalabad
+Smooth driving experience in city,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Lahore
+Great value for money,Positive,Islamabad
+Very affordable maintenance cost,Positive,Multan
+Low fuel consumption,Positive,Lahore
+Very affordable maintenance cost,Positive,Islamabad
+Great value for money,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Multan
+Excellent fuel efficiency for daily use,Positive,Karachi
+Low fuel consumption,Positive,Faisalabad
+Cheap interior materials,Negative,Faisalabad
+Great value for money,Positive,Karachi
+Perfect for daily commute,Positive,Islamabad
+Great value for money,Positive,Faisalabad
+Very affordable maintenance cost,Positive,Islamabad
+Very affordable maintenance cost,Positive,Islamabad
+Low fuel consumption,Positive,Lahore
+Not durable for long term use,Negative,Faisalabad
+Smooth driving experience in city,Positive,Islamabad
+Suspension feels uncomfortable,Negative,Lahore
+Great value for money,Positive,Faisalabad
+Brake performance is weak,Negative,Multan
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Smooth driving experience in city,Positive,Multan
+Easy to park in crowded areas,Positive,Lahore
+Great value for money,Positive,Multan
+Very affordable maintenance cost,Positive,Faisalabad
+Smooth driving experience in city,Positive,Islamabad
+Engine performance is underpowered,Negative,Karachi
+Good resale value in market,Positive,Karachi
+Reliable and economical car,Positive,Faisalabad
+Reliable and economical car,Positive,Multan
+Reliable and economical car,Positive,Multan
+Noisy engine at high speed,Negative,Karachi
+Poor build quality and weak body,Negative,Multan
+Suspension feels uncomfortable,Negative,Faisalabad
+Good resale value in market,Positive,Multan
+Easy to park in crowded areas,Positive,Islamabad
+Not durable for long term use,Negative,Faisalabad
+Easy to park in crowded areas,Positive,Islamabad
+Smooth driving experience in city,Positive,Karachi
+Smooth driving experience in city,Positive,Multan
+Brake performance is weak,Negative,Islamabad
+Brake performance is weak,Negative,Islamabad
+Easy to park in crowded areas,Positive,Multan
+Good resale value in market,Positive,Karachi
+AC is not effective in hot weather,Negative,Islamabad
+Very affordable maintenance cost,Positive,Faisalabad
+Reliable and economical car,Positive,Islamabad
+Smooth driving experience in city,Positive,Karachi
+Brake performance is weak,Negative,Lahore
+Low fuel consumption,Positive,Multan
+Good resale value in market,Positive,Islamabad
+Easy to park in crowded areas,Positive,Multan
+Very affordable maintenance cost,Positive,Karachi
+Smooth driving experience in city,Positive,Karachi
+Perfect for daily commute,Positive,Faisalabad
+Great value for money,Positive,Lahore
+Suspension feels uncomfortable,Negative,Faisalabad
+Low fuel consumption,Positive,Karachi
+Low safety features,Negative,Multan
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Good resale value in market,Positive,Islamabad
+AC is not effective in hot weather,Negative,Karachi
+Poor build quality and weak body,Negative,Islamabad
+Easy to park in crowded areas,Positive,Islamabad
+Smooth driving experience in city,Positive,Faisalabad
+Very affordable maintenance cost,Positive,Multan
+Low fuel consumption,Positive,Multan
+Excellent fuel efficiency for daily use,Positive,Lahore
+Easy to park in crowded areas,Positive,Multan
+Very affordable maintenance cost,Positive,Islamabad
+Excellent fuel efficiency for daily use,Positive,Lahore
+Good resale value in market,Positive,Islamabad
+Comfortable for small families,Positive,Islamabad
+Good resale value in market,Positive,Faisalabad
+Not suitable for long routes,Negative,Islamabad
+Brake performance is weak,Negative,Multan
+Excellent fuel efficiency for daily use,Positive,Lahore
+Comfortable for small families,Positive,Multan
+Good resale value in market,Positive,Faisalabad
+Good resale value in market,Positive,Karachi
+Very affordable maintenance cost,Positive,Islamabad
+Perfect for daily commute,Positive,Islamabad
+Low fuel consumption,Positive,Lahore
+Reliable and economical car,Positive,Islamabad
+Smooth driving experience in city,Positive,Multan
+Great value for money,Positive,Karachi
+Reliable and economical car,Positive,Multan
+Reliable and economical car,Positive,Multan
+Easy to park in crowded areas,Positive,Faisalabad
+Great value for money,Positive,Islamabad
+Smooth driving experience in city,Positive,Islamabad
+Perfect for daily commute,Positive,Multan
+Perfect for daily commute,Positive,Karachi
+Great value for money,Positive,Islamabad
+Smooth driving experience in city,Positive,Faisalabad
+Comfortable for small families,Positive,Islamabad
+Low safety features,Negative,Faisalabad
+Low safety features,Negative,Lahore
+Excellent fuel efficiency for daily use,Positive,Lahore
+Very affordable maintenance cost,Positive,Lahore
+Perfect for daily commute,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Faisalabad
+Low fuel consumption,Positive,Karachi
+Engine performance is underpowered,Negative,Faisalabad
+Comfortable for small families,Positive,Islamabad
+Brake performance is weak,Negative,Karachi
+Engine performance is underpowered,Negative,Multan
+Engine performance is underpowered,Negative,Faisalabad
+Reliable and economical car,Positive,Multan
+Reliable and economical car,Positive,Lahore
+Good resale value in market,Positive,Multan
+Very affordable maintenance cost,Positive,Karachi
+Comfortable for small families,Positive,Faisalabad
+Very affordable maintenance cost,Positive,Islamabad
+Low fuel consumption,Positive,Multan
+Very affordable maintenance cost,Positive,Multan
+Very affordable maintenance cost,Positive,Lahore
+Great value for money,Positive,Karachi
+Low fuel consumption,Positive,Islamabad
+Noisy engine at high speed,Negative,Faisalabad
+Easy to park in crowded areas,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Multan
+Perfect for daily commute,Positive,Multan
+Perfect for daily commute,Positive,Islamabad
+Low fuel consumption,Positive,Karachi
+Comfortable for small families,Positive,Multan
+Low fuel consumption,Positive,Multan
+Engine performance is underpowered,Negative,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Karachi
+Good resale value in market,Positive,Lahore
+Low fuel consumption,Positive,Multan
+Great value for money,Positive,Islamabad
+Smooth driving experience in city,Positive,Lahore
+Smooth driving experience in city,Positive,Karachi
+Suspension feels uncomfortable,Negative,Islamabad
+Comfortable for small families,Positive,Karachi
+Cheap interior materials,Negative,Islamabad
+Brake performance is weak,Negative,Islamabad
+Low fuel consumption,Positive,Multan
+Smooth driving experience in city,Positive,Multan
+Smooth driving experience in city,Positive,Faisalabad
+Comfortable for small families,Positive,Karachi
+Easy to park in crowded areas,Positive,Karachi
+Cheap interior materials,Negative,Multan
+Cheap interior materials,Negative,Multan
+Good resale value in market,Positive,Islamabad
+Perfect for daily commute,Positive,Faisalabad
+Great value for money,Positive,Karachi
+Very affordable maintenance cost,Positive,Karachi
+Comfortable for small families,Positive,Faisalabad
+Easy to park in crowded areas,Positive,Lahore
+Reliable and economical car,Positive,Lahore
+Easy to park in crowded areas,Positive,Multan
+Reliable and economical car,Positive,Multan
+Reliable and economical car,Positive,Karachi
+Reliable and economical car,Positive,Lahore
+Smooth driving experience in city,Positive,Faisalabad
+Low safety features,Negative,Islamabad
+Smooth driving experience in city,Positive,Lahore
+Easy to park in crowded areas,Positive,Multan
+Very affordable maintenance cost,Positive,Lahore
+Not suitable for long routes,Negative,Lahore
+AC is not effective in hot weather,Negative,Islamabad
+Comfortable for small families,Positive,Islamabad
+Excellent fuel efficiency for daily use,Positive,Multan
+Not durable for long term use,Negative,Multan
+Excellent fuel efficiency for daily use,Positive,Lahore
+Perfect for daily commute,Positive,Faisalabad
+Comfortable for small families,Positive,Islamabad
+Good resale value in market,Positive,Karachi
+Low fuel consumption,Positive,Islamabad
+Very affordable maintenance cost,Positive,Islamabad
+Perfect for daily commute,Positive,Karachi
+Suspension feels uncomfortable,Negative,Karachi
+Easy to park in crowded areas,Positive,Islamabad
+Easy to park in crowded areas,Positive,Islamabad
+Low safety features,Negative,Islamabad
+Not durable for long term use,Negative,Karachi
+Very affordable maintenance cost,Positive,Multan
+Good resale value in market,Positive,Karachi
+Easy to park in crowded areas,Positive,Karachi
+Noisy engine at high speed,Negative,Multan
+Noisy engine at high speed,Negative,Multan
+Reliable and economical car,Positive,Karachi
+Suspension feels uncomfortable,Negative,Islamabad
+AC is not effective in hot weather,Negative,Multan
+Comfortable for small families,Positive,Multan
+Reliable and economical car,Positive,Islamabad
+Engine performance is underpowered,Negative,Faisalabad
+Good resale value in market,Positive,Lahore
+Not durable for long term use,Negative,Faisalabad
+Comfortable for small families,Positive,Karachi
+Good resale value in market,Positive,Multan
+Good resale value in market,Positive,Islamabad
+Easy to park in crowded areas,Positive,Multan
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Great value for money,Positive,Karachi
+Easy to park in crowded areas,Positive,Islamabad
+Perfect for daily commute,Positive,Faisalabad
+Perfect for daily commute,Positive,Multan
+Low fuel consumption,Positive,Multan
+Comfortable for small families,Positive,Faisalabad
+Easy to park in crowded areas,Positive,Karachi
+Good resale value in market,Positive,Multan
+Reliable and economical car,Positive,Lahore
+Perfect for daily commute,Positive,Lahore
+Perfect for daily commute,Positive,Karachi
+Comfortable for small families,Positive,Faisalabad
+Comfortable for small families,Positive,Islamabad
+Good resale value in market,Positive,Multan
+Comfortable for small families,Positive,Faisalabad
+Smooth driving experience in city,Positive,Lahore
+Not durable for long term use,Negative,Islamabad
+Good resale value in market,Positive,Karachi
+Very affordable maintenance cost,Positive,Faisalabad
+Reliable and economical car,Positive,Islamabad
+Low safety features,Negative,Faisalabad
+Very affordable maintenance cost,Positive,Faisalabad
+Comfortable for small families,Positive,Islamabad
+Very affordable maintenance cost,Positive,Islamabad
+Brake performance is weak,Negative,Multan
+Great value for money,Positive,Karachi
+Smooth driving experience in city,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Faisalabad
+Easy to park in crowded areas,Positive,Lahore
+Very affordable maintenance cost,Positive,Karachi
+Comfortable for small families,Positive,Karachi
+Comfortable for small families,Positive,Lahore
+Not durable for long term use,Negative,Islamabad
+Easy to park in crowded areas,Positive,Lahore
+Cheap interior materials,Negative,Karachi
+Low fuel consumption,Positive,Faisalabad
+Engine performance is underpowered,Negative,Lahore
+Good resale value in market,Positive,Faisalabad
+Low safety features,Negative,Islamabad
+Poor build quality and weak body,Negative,Karachi
+Smooth driving experience in city,Positive,Lahore
+Excellent fuel efficiency for daily use,Positive,Multan
+Suspension feels uncomfortable,Negative,Multan
+Smooth driving experience in city,Positive,Faisalabad
+Smooth driving experience in city,Positive,Islamabad
+Smooth driving experience in city,Positive,Karachi
+Low safety features,Negative,Multan
+Reliable and economical car,Positive,Multan
+Smooth driving experience in city,Positive,Multan
+Low fuel consumption,Positive,Lahore
+Low fuel consumption,Positive,Lahore
+Reliable and economical car,Positive,Multan
+Smooth driving experience in city,Positive,Islamabad
+Very affordable maintenance cost,Positive,Faisalabad
+Not durable for long term use,Negative,Karachi
+AC is not effective in hot weather,Negative,Lahore
+Low fuel consumption,Positive,Multan
+Brake performance is weak,Negative,Islamabad
+AC is not effective in hot weather,Negative,Faisalabad
+Great value for money,Positive,Karachi
+Noisy engine at high speed,Negative,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Multan
+Easy to park in crowded areas,Positive,Karachi
+Very affordable maintenance cost,Positive,Islamabad
+Low fuel consumption,Positive,Islamabad
+Great value for money,Positive,Karachi
+Suspension feels uncomfortable,Negative,Karachi
+Smooth driving experience in city,Positive,Karachi
+Poor build quality and weak body,Negative,Faisalabad
+Good resale value in market,Positive,Lahore
+Perfect for daily commute,Positive,Karachi
+Brake performance is weak,Negative,Islamabad
+Good resale value in market,Positive,Faisalabad
+Very affordable maintenance cost,Positive,Lahore
+Excellent fuel efficiency for daily use,Positive,Multan
+Great value for money,Positive,Islamabad
+Great value for money,Positive,Karachi
+Easy to park in crowded areas,Positive,Karachi
+Low fuel consumption,Positive,Multan
+Suspension feels uncomfortable,Negative,Faisalabad
+Easy to park in crowded areas,Positive,Faisalabad
+Comfortable for small families,Positive,Karachi
+Reliable and economical car,Positive,Faisalabad
+Cheap interior materials,Negative,Karachi
+Not durable for long term use,Negative,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Great value for money,Positive,Faisalabad
+Easy to park in crowded areas,Positive,Multan
+Smooth driving experience in city,Positive,Multan
+Easy to park in crowded areas,Positive,Lahore
+Not durable for long term use,Negative,Islamabad
+Suspension feels uncomfortable,Negative,Multan
+Poor build quality and weak body,Negative,Islamabad
+Easy to park in crowded areas,Positive,Islamabad
+Great value for money,Positive,Multan
+Easy to park in crowded areas,Positive,Multan
+Good resale value in market,Positive,Lahore
+Smooth driving experience in city,Positive,Karachi
+Easy to park in crowded areas,Positive,Islamabad
+Low fuel consumption,Positive,Faisalabad
+Perfect for daily commute,Positive,Faisalabad
+Comfortable for small families,Positive,Lahore
+Excellent fuel efficiency for daily use,Positive,Karachi
+Low safety features,Negative,Faisalabad
+Great value for money,Positive,Islamabad
+Reliable and economical car,Positive,Karachi
+Smooth driving experience in city,Positive,Multan
+Comfortable for small families,Positive,Faisalabad
+AC is not effective in hot weather,Negative,Faisalabad
+Easy to park in crowded areas,Positive,Islamabad
+Good resale value in market,Positive,Multan
+Easy to park in crowded areas,Positive,Faisalabad
+Engine performance is underpowered,Negative,Faisalabad
+Smooth driving experience in city,Positive,Karachi
+Low fuel consumption,Positive,Faisalabad
+Low fuel consumption,Positive,Lahore
+Smooth driving experience in city,Positive,Multan
+Perfect for daily commute,Positive,Multan
+Perfect for daily commute,Positive,Islamabad
+Reliable and economical car,Positive,Faisalabad
+Smooth driving experience in city,Positive,Lahore
+Excellent fuel efficiency for daily use,Positive,Lahore
+Not durable for long term use,Negative,Islamabad
+Very affordable maintenance cost,Positive,Faisalabad
+Comfortable for small families,Positive,Islamabad
+Poor build quality and weak body,Negative,Multan
+Easy to park in crowded areas,Positive,Lahore
+Great value for money,Positive,Islamabad
+Not suitable for long routes,Negative,Multan
+Reliable and economical car,Positive,Islamabad
+Perfect for daily commute,Positive,Faisalabad
+Comfortable for small families,Positive,Multan
+Perfect for daily commute,Positive,Islamabad
+Not suitable for long routes,Negative,Multan
+Excellent fuel efficiency for daily use,Positive,Karachi
+Great value for money,Positive,Karachi
+Perfect for daily commute,Positive,Faisalabad
+Perfect for daily commute,Positive,Lahore
+Good resale value in market,Positive,Faisalabad
+Comfortable for small families,Positive,Lahore
+Good resale value in market,Positive,Lahore
+Not suitable for long routes,Negative,Islamabad
+Easy to park in crowded areas,Positive,Multan
+Low fuel consumption,Positive,Multan
+Good resale value in market,Positive,Faisalabad
+Perfect for daily commute,Positive,Karachi
+Comfortable for small families,Positive,Multan
+Comfortable for small families,Positive,Lahore
+Suspension feels uncomfortable,Negative,Multan
+Perfect for daily commute,Positive,Karachi
+Easy to park in crowded areas,Positive,Lahore
+Perfect for daily commute,Positive,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Multan
+Poor build quality and weak body,Negative,Multan
+Easy to park in crowded areas,Positive,Faisalabad
+Noisy engine at high speed,Negative,Islamabad
+Smooth driving experience in city,Positive,Faisalabad
+Reliable and economical car,Positive,Faisalabad
+Very affordable maintenance cost,Positive,Islamabad
+Comfortable for small families,Positive,Multan
+Easy to park in crowded areas,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Karachi
+Not durable for long term use,Negative,Faisalabad
+Cheap interior materials,Negative,Islamabad
+Smooth driving experience in city,Positive,Lahore
+Perfect for daily commute,Positive,Faisalabad
+Poor build quality and weak body,Negative,Faisalabad
+Smooth driving experience in city,Positive,Multan
+Low safety features,Negative,Karachi
+Low safety features,Negative,Lahore
+Comfortable for small families,Positive,Lahore
+Great value for money,Positive,Lahore
+Low fuel consumption,Positive,Faisalabad
+Smooth driving experience in city,Positive,Lahore
+Not suitable for long routes,Negative,Islamabad
+Very affordable maintenance cost,Positive,Islamabad
+Excellent fuel efficiency for daily use,Positive,Lahore
+Smooth driving experience in city,Positive,Multan
+Very affordable maintenance cost,Positive,Lahore
+Reliable and economical car,Positive,Karachi
+Great value for money,Positive,Multan
+Not durable for long term use,Negative,Multan
+Brake performance is weak,Negative,Lahore
+Poor build quality and weak body,Negative,Faisalabad
+Great value for money,Positive,Islamabad
+Very affordable maintenance cost,Positive,Karachi
+Cheap interior materials,Negative,Karachi
+Cheap interior materials,Negative,Faisalabad
+Low fuel consumption,Positive,Faisalabad
+Smooth driving experience in city,Positive,Faisalabad
+Great value for money,Positive,Lahore
+Poor build quality and weak body,Negative,Lahore
+Very affordable maintenance cost,Positive,Faisalabad
+Low fuel consumption,Positive,Multan
+Perfect for daily commute,Positive,Islamabad
+Easy to park in crowded areas,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Lahore
+Engine performance is underpowered,Negative,Karachi
+Noisy engine at high speed,Negative,Islamabad
+Reliable and economical car,Positive,Karachi
+Low fuel consumption,Positive,Faisalabad
+Cheap interior materials,Negative,Faisalabad
+Great value for money,Positive,Karachi
+Smooth driving experience in city,Positive,Karachi
+Very affordable maintenance cost,Positive,Multan
+Not durable for long term use,Negative,Islamabad
+Suspension feels uncomfortable,Negative,Karachi
+Comfortable for small families,Positive,Islamabad
+Comfortable for small families,Positive,Karachi
+Easy to park in crowded areas,Positive,Karachi
+Smooth driving experience in city,Positive,Faisalabad
+Reliable and economical car,Positive,Karachi
+Smooth driving experience in city,Positive,Karachi
+Great value for money,Positive,Lahore
+Easy to park in crowded areas,Positive,Karachi
+Great value for money,Positive,Multan
+Smooth driving experience in city,Positive,Multan
+Good resale value in market,Positive,Islamabad
+Low safety features,Negative,Islamabad
+Noisy engine at high speed,Negative,Lahore
+Engine performance is underpowered,Negative,Karachi
+Not durable for long term use,Negative,Islamabad
+Great value for money,Positive,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Multan
+Comfortable for small families,Positive,Karachi
+Reliable and economical car,Positive,Lahore
+Great value for money,Positive,Islamabad
+Noisy engine at high speed,Negative,Faisalabad
+Comfortable for small families,Positive,Karachi
+Not durable for long term use,Negative,Karachi
+Great value for money,Positive,Faisalabad
+Comfortable for small families,Positive,Islamabad
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Comfortable for small families,Positive,Lahore
+Great value for money,Positive,Multan
+Smooth driving experience in city,Positive,Karachi
+Very affordable maintenance cost,Positive,Karachi
+Engine performance is underpowered,Negative,Faisalabad
+Reliable and economical car,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Smooth driving experience in city,Positive,Islamabad
+Very affordable maintenance cost,Positive,Multan
+Low safety features,Negative,Multan
+Excellent fuel efficiency for daily use,Positive,Lahore
+Not durable for long term use,Negative,Faisalabad
+Smooth driving experience in city,Positive,Karachi
+Very affordable maintenance cost,Positive,Lahore
+Very affordable maintenance cost,Positive,Lahore
+Smooth driving experience in city,Positive,Islamabad
+Perfect for daily commute,Positive,Karachi
+Reliable and economical car,Positive,Lahore
+Good resale value in market,Positive,Lahore
+Low safety features,Negative,Multan
+Perfect for daily commute,Positive,Lahore
+Low safety features,Negative,Faisalabad
+Poor build quality and weak body,Negative,Faisalabad
+Perfect for daily commute,Positive,Karachi
+Smooth driving experience in city,Positive,Lahore
+Low fuel consumption,Positive,Multan
+Comfortable for small families,Positive,Multan
+Brake performance is weak,Negative,Multan
+Low safety features,Negative,Lahore
+Excellent fuel efficiency for daily use,Positive,Karachi
+Smooth driving experience in city,Positive,Islamabad
+Not suitable for long routes,Negative,Faisalabad
+Very affordable maintenance cost,Positive,Lahore
+AC is not effective in hot weather,Negative,Lahore
+Great value for money,Positive,Islamabad
+Low fuel consumption,Positive,Multan
+Good resale value in market,Positive,Karachi
+Not durable for long term use,Negative,Islamabad
+Reliable and economical car,Positive,Faisalabad
+Perfect for daily commute,Positive,Lahore
+Perfect for daily commute,Positive,Multan
+Reliable and economical car,Positive,Faisalabad
+Perfect for daily commute,Positive,Lahore
+Great value for money,Positive,Multan
+Good resale value in market,Positive,Faisalabad
+Good resale value in market,Positive,Karachi
+Very affordable maintenance cost,Positive,Lahore
+AC is not effective in hot weather,Negative,Lahore
+Perfect for daily commute,Positive,Islamabad
+Comfortable for small families,Positive,Lahore
+Perfect for daily commute,Positive,Multan
+Easy to park in crowded areas,Positive,Faisalabad
+Reliable and economical car,Positive,Faisalabad
+Perfect for daily commute,Positive,Karachi
+Suspension feels uncomfortable,Negative,Lahore
+Poor build quality and weak body,Negative,Islamabad
+Great value for money,Positive,Lahore
+Smooth driving experience in city,Positive,Islamabad
+Smooth driving experience in city,Positive,Multan
+Great value for money,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Karachi
+Good resale value in market,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Noisy engine at high speed,Negative,Lahore
+Very affordable maintenance cost,Positive,Karachi
+Great value for money,Positive,Islamabad
+Reliable and economical car,Positive,Islamabad
+Smooth driving experience in city,Positive,Faisalabad
+AC is not effective in hot weather,Negative,Karachi
+Comfortable for small families,Positive,Lahore
+Smooth driving experience in city,Positive,Faisalabad
+Easy to park in crowded areas,Positive,Karachi
+Easy to park in crowded areas,Positive,Karachi
+AC is not effective in hot weather,Negative,Lahore
+AC is not effective in hot weather,Negative,Lahore
+Smooth driving experience in city,Positive,Karachi
+Low fuel consumption,Positive,Multan
+Not suitable for long routes,Negative,Karachi
+Reliable and economical car,Positive,Faisalabad
+Very affordable maintenance cost,Positive,Karachi
+Smooth driving experience in city,Positive,Multan
+Easy to park in crowded areas,Positive,Karachi
+Great value for money,Positive,Multan
+Great value for money,Positive,Karachi
+Smooth driving experience in city,Positive,Multan
+Smooth driving experience in city,Positive,Karachi
+Low fuel consumption,Positive,Karachi
+Low safety features,Negative,Faisalabad
+Smooth driving experience in city,Positive,Islamabad
+Brake performance is weak,Negative,Lahore
+Low fuel consumption,Positive,Islamabad
+Cheap interior materials,Negative,Multan
+Excellent fuel efficiency for daily use,Positive,Multan
+Low fuel consumption,Positive,Faisalabad
+Very affordable maintenance cost,Positive,Lahore
+Low safety features,Negative,Multan
+Perfect for daily commute,Positive,Faisalabad
+AC is not effective in hot weather,Negative,Karachi
+Great value for money,Positive,Faisalabad
+Smooth driving experience in city,Positive,Lahore
+Great value for money,Positive,Karachi
+Smooth driving experience in city,Positive,Islamabad
+Engine performance is underpowered,Negative,Faisalabad
+Comfortable for small families,Positive,Faisalabad
+Comfortable for small families,Positive,Lahore
+Comfortable for small families,Positive,Islamabad
+Comfortable for small families,Positive,Lahore
+Smooth driving experience in city,Positive,Multan
+Great value for money,Positive,Karachi
+Great value for money,Positive,Multan
+Excellent fuel efficiency for daily use,Positive,Lahore
+Low fuel consumption,Positive,Lahore
+Reliable and economical car,Positive,Faisalabad
+Comfortable for small families,Positive,Multan
+Comfortable for small families,Positive,Lahore
+Reliable and economical car,Positive,Islamabad
+Great value for money,Positive,Faisalabad
+Poor build quality and weak body,Negative,Islamabad
+Smooth driving experience in city,Positive,Faisalabad
+Good resale value in market,Positive,Karachi
+Smooth driving experience in city,Positive,Multan
+Good resale value in market,Positive,Multan
+Perfect for daily commute,Positive,Karachi
+Comfortable for small families,Positive,Lahore
+Low fuel consumption,Positive,Faisalabad
+Good resale value in market,Positive,Islamabad
+Low fuel consumption,Positive,Multan
+Reliable and economical car,Positive,Karachi
+Low safety features,Negative,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Low fuel consumption,Positive,Lahore
+Reliable and economical car,Positive,Islamabad
+Perfect for daily commute,Positive,Lahore
+Smooth driving experience in city,Positive,Faisalabad
+Reliable and economical car,Positive,Karachi
+Noisy engine at high speed,Negative,Multan
+Reliable and economical car,Positive,Islamabad
+Easy to park in crowded areas,Positive,Lahore
+Smooth driving experience in city,Positive,Faisalabad
+Not suitable for long routes,Negative,Islamabad
+Great value for money,Positive,Islamabad
+Very affordable maintenance cost,Positive,Multan
+Excellent fuel efficiency for daily use,Positive,Karachi
+Smooth driving experience in city,Positive,Faisalabad
+Low fuel consumption,Positive,Lahore
+Easy to park in crowded areas,Positive,Faisalabad
+Smooth driving experience in city,Positive,Karachi
+Smooth driving experience in city,Positive,Islamabad
+Comfortable for small families,Positive,Karachi
+Great value for money,Positive,Lahore
+Reliable and economical car,Positive,Multan
+Not suitable for long routes,Negative,Islamabad
+Comfortable for small families,Positive,Islamabad
+Engine performance is underpowered,Negative,Lahore
+Great value for money,Positive,Islamabad
+Reliable and economical car,Positive,Karachi
+Comfortable for small families,Positive,Faisalabad
+Reliable and economical car,Positive,Multan
+Good resale value in market,Positive,Multan
+Easy to park in crowded areas,Positive,Multan
+Comfortable for small families,Positive,Islamabad
+Not durable for long term use,Negative,Islamabad
+Suspension feels uncomfortable,Negative,Islamabad
+Brake performance is weak,Negative,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Lahore
+Good resale value in market,Positive,Lahore
+Perfect for daily commute,Positive,Lahore
+Low fuel consumption,Positive,Faisalabad
+Comfortable for small families,Positive,Multan
+Comfortable for small families,Positive,Karachi
+Low fuel consumption,Positive,Islamabad
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Very affordable maintenance cost,Positive,Multan
+Perfect for daily commute,Positive,Lahore
+Easy to park in crowded areas,Positive,Faisalabad
+Very affordable maintenance cost,Positive,Islamabad
+Comfortable for small families,Positive,Multan
+Reliable and economical car,Positive,Islamabad
+Good resale value in market,Positive,Faisalabad
+Great value for money,Positive,Lahore
+Easy to park in crowded areas,Positive,Lahore
+Easy to park in crowded areas,Positive,Faisalabad
+Perfect for daily commute,Positive,Lahore
+Reliable and economical car,Positive,Islamabad
+Very affordable maintenance cost,Positive,Multan
+Very affordable maintenance cost,Positive,Karachi
+Cheap interior materials,Negative,Islamabad
+Comfortable for small families,Positive,Lahore
+AC is not effective in hot weather,Negative,Lahore
+Low fuel consumption,Positive,Multan
+Great value for money,Positive,Faisalabad
+Excellent fuel efficiency for daily use,Positive,Faisalabad
+Low fuel consumption,Positive,Islamabad
+Perfect for daily commute,Positive,Faisalabad
+Low fuel consumption,Positive,Lahore
+Comfortable for small families,Positive,Lahore
+Perfect for daily commute,Positive,Islamabad
+Good resale value in market,Positive,Faisalabad
+Smooth driving experience in city,Positive,Islamabad
+Comfortable for small families,Positive,Multan
+Low safety features,Negative,Multan
+Poor build quality and weak body,Negative,Faisalabad
+Smooth driving experience in city,Positive,Multan
+Comfortable for small families,Positive,Karachi
+Not durable for long term use,Negative,Multan
+Comfortable for small families,Positive,Multan
+Cheap interior materials,Negative,Multan
+Great value for money,Positive,Islamabad
+Comfortable for small families,Positive,Islamabad
+Smooth driving experience in city,Positive,Lahore
+Reliable and economical car,Positive,Lahore
+Great value for money,Positive,Lahore
+Perfect for daily commute,Positive,Lahore
+Good resale value in market,Positive,Lahore
+Low fuel consumption,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Islamabad
+Smooth driving experience in city,Positive,Faisalabad
+Easy to park in crowded areas,Positive,Karachi
+Good resale value in market,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Karachi
+Cheap interior materials,Negative,Karachi
+Low safety features,Negative,Faisalabad
+Low fuel consumption,Positive,Multan
+Good resale value in market,Positive,Karachi
+Great value for money,Positive,Islamabad
+Smooth driving experience in city,Positive,Lahore
+Smooth driving experience in city,Positive,Karachi
+Easy to park in crowded areas,Positive,Islamabad
+Reliable and economical car,Positive,Multan
+Noisy engine at high speed,Negative,Faisalabad
+Good resale value in market,Positive,Lahore
+Great value for money,Positive,Islamabad
+Smooth driving experience in city,Positive,Multan
+Noisy engine at high speed,Negative,Karachi
+Very affordable maintenance cost,Positive,Karachi
+Excellent fuel efficiency for daily use,Positive,Karachi
+Low fuel consumption,Positive,Islamabad
+Good resale value in market,Positive,Lahore
+Comfortable for small families,Positive,Islamabad
+Perfect for daily commute,Positive,Karachi
+Great value for money,Positive,Lahore
+Easy to park in crowded areas,Positive,Karachi
+Suspension feels uncomfortable,Negative,Islamabad
+Great value for money,Positive,Lahore
+Reliable and economical car,Positive,Lahore
+Poor build quality and weak body,Negative,Lahore
+Very affordable maintenance cost,Positive,Islamabad
+Very affordable maintenance cost,Positive,Islamabad
+Perfect for daily commute,Positive,Islamabad
+Reliable and economical car,Positive,Multan
+Great value for money,Positive,Islamabad
+Noisy engine at high speed,Negative,Islamabad
+Good resale value in market,Positive,Multan
+Very affordable maintenance cost,Positive,Multan
+Comfortable for small families,Positive,Karachi
+Noisy engine at high speed,Negative,Islamabad
+Poor build quality and weak body,Negative,Multan
+Engine performance is underpowered,Negative,Karachi
+Low fuel consumption,Positive,Karachi
+Good resale value in market,Positive,Lahore
+Easy to park in crowded areas,Positive,Faisalabad
+Smooth driving experience in city,Positive,Lahore
+Good resale value in market,Positive,Multan
+Noisy engine at high speed,Negative,Lahore
+Comfortable for small families,Positive,Karachi
+Very affordable maintenance cost,Positive,Karachi
+Very affordable maintenance cost,Positive,Lahore
+Comfortable for small families,Positive,Islamabad
+Comfortable for small families,Positive,Faisalabad
+Noisy engine at high speed,Negative,Multan
+Low safety features,Negative,Lahore
+AC is not effective in hot weather,Negative,Faisalabad
+Perfect for daily commute,Positive,Faisalabad
+Great value for money,Positive,Karachi
+Great value for money,Positive,Karachi
+Not suitable for long routes,Negative,Karachi
+Very affordable maintenance cost,Positive,Lahore
+Excellent fuel efficiency for daily use,Positive,Lahore
+Reliable and economical car,Positive,Islamabad
+Easy to park in crowded areas,Positive,Islamabad
+Cheap interior materials,Negative,Karachi
+Low safety features,Negative,Lahore
+Engine performance is underpowered,Negative,Multan
+Not durable for long term use,Negative,Multan
+Very affordable maintenance cost,Positive,Faisalabad
+Cheap interior materials,Negative,Multan
+Reliable and economical car,Positive,Multan
+Good resale value in market,Positive,Islamabad
+Comfortable for small families,Positive,Karachi
+Brake performance is weak,Negative,Multan
