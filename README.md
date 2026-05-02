@@ -69,7 +69,7 @@ Built an **interactive AI-powered sentiment analytics dashboard** that:
 ---
 
 ## 🖥️ Live Demo
-👉 [Streamlit App Link Here]
+👉 https://customer-sentiment-analyzergit-suzuki.streamlit.app/
 
 ---
 
