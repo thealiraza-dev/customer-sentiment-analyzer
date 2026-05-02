@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 
@@ -30,3 +31,6 @@ This project focuses on analyzing customer feedback data to determine sentiment 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/customer-sentiment-analyzer.git
+=======
+# customer-sentiment-analyzer
+>>>>>>> 55f74c8dd538917e28365109fc39dd2f88b6d9e1
